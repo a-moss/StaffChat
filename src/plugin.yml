@@ -1,0 +1,8 @@
+name: StaffChat
+main: com.mydeblob.staffchat.StaffChat
+version: 1.0
+author: mydeblob
+commands:
+   sc:
+      description: Toggles staff chat
+      usage: /<command>
